@@ -1,0 +1,51 @@
+[
+  {
+    "content": "5 Tips to Learn Python Fast",
+    "type": "educational",
+    "time": "19:00",
+    "likes": 120,
+    "comments": 30
+  },
+  {
+    "content": "Stay motivated and never give up!",
+    "type": "motivational",
+    "time": "09:00",
+    "likes": 40,
+    "comments": 5
+  },
+  {
+    "content": "Understanding AWS SNS in 10 minutes",
+    "type": "educational",
+    "time": "19:30",
+    "likes": 150,
+    "comments": 45
+  },
+  {
+    "content": "Daily coding challenge #1",
+    "type": "challenge",
+    "time": "18:30",
+    "likes": 95,
+    "comments": 20
+  },
+  {
+    "content": "Why consistency beats talent",
+    "type": "motivational",
+    "time": "08:30",
+    "likes": 35,
+    "comments": 4
+  },
+  {
+    "content": "Learn a new AI concept in 5 minutes!",
+    "type": "educational",
+    "time": "19:30",
+    "likes": 134,
+    "comments": 34
+  },
+  {
+    "content": "Learn a new AI concept in 5 minutes!",
+    "type": "educational",
+    "time": "19:30",
+    "likes": 175,
+    "comments": 49
+  }
+]
